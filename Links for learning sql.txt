@@ -1,0 +1,7 @@
+https://www.tutorialspoint.com/dbms/index.htm
+https://www.w3schools.com/sql/default.asp
+https://www.tutorialspoint.com/dbms/sql_overview.htm
+
+Video tutorials:
+https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql
+https://www.youtube.com/watch?v=9Pzj7Aj25lw&ab_channel=JoeyBlue
